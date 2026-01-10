@@ -1,6 +1,7 @@
 <div align="center">
 
 # 🌍 NZAGHA VENTURES CORP
+
 ### KILAMPIRATE CONGLOMERATE
 
 **Long Africa; Bridge the World**
@@ -56,15 +57,19 @@ Human Evolution started in Africa. Instead of isolation and shorting the world, 
 ## 💡 How We Do It
 
 ### 🏗️ **We Are Long Africa**
+
 Nzagha is structured to create long-term compounding growth in Africa through a diversified portfolio of interconnected cash flow-generating businesses and assets.
 
 ### 💰 **We Work With Capital Partners**
+
 Nzagha has significant capital flexibility, working with investors of all kinds at many levels of portfolio and deal exposure and sharing economics.
 
 ### 🚀 **We Operate Platforms That Buy, Build, and Invest**
+
 Nzagha builds portfolios through investment platforms in areas like climate, health, the future of work, media, commerce, agriculture, and the diaspora.
 
 ### 🌐 **We Ecosystem Build**
+
 Nzagha does not invest passively. We look for adjacent opportunities to build services and infrastructure that support our portfolio and increase our value add.
 
 ---
@@ -74,27 +79,35 @@ Nzagha does not invest passively. We look for adjacent opportunities to build se
 Nzagha operates a set of investment platforms that work across markets and sectors, building ecosystems of portfolio companies, supportive infrastructure, and services.
 
 ### 🏗️ Technology & Resilient Infrastructure
-As Africa continues to grow, the need for robust technology and resilient infrastructure becomes increasingly critical. Nzagha invests in the foundational systems—both digital and physical—that enable economic stability, connectivity, and sustainable urban development across the continent.
+
+As Africa continues to grow, the need for robust technology and resilient infrastructure becomes increasingly critical. Nzagha invests in the foundational systems (both digital and physical) that enable economic stability, connectivity, and sustainable urban development across the continent.
 
 ### ♻️ Climate & Sustainability
+
 The two most predictable trends of the 21st century are global demographics and climate change. Africa is not responsible for the majority of emissions, but its populations will suffer the consequences more than anyone. Across energy, agriculture, and carbon, Nzagha is building out the continent's climate ecosystem, including electric vehicles and financing, charging and energy infrastructure, large-scale forestry and regenerative agricultural projects, and sustainable food systems and supply chains.
 
 ### 📺 Media
+
 As consumers of media, content, and advertising, African populations will only grow in importance with the growth of the middle class and disposable income across the continent. With some of the top actors, musicians, and athletes increasingly African, the significance of African culture and talent is only getting stronger. Nzagha Media seeks to build large-scale audiences, acquiring and investing in media assets, native content production, talent representation, ecosystems like live music, and physical infrastructure.
 
 ### 🛒 Commerce
+
 Commerce, covering trade, transaction, and financial services, is growing rapidly in Africa alongside the continent's demographic explosion, particularly its 170M strong middle class. Commerce is not only a good investment, but it also allows Nzagha to build and access large networks of customers. With Nzagha Media consolidating large-scale audiences, Commerce seeks to create a set of tools and playbooks for African merchants and brands that we back to connect with those audiences.
 
 ### 🏥 Healthcare
+
 The future belongs to Africa, but without significant improvements in health infrastructure, services, and outcomes, that future will not be bright. Treatable infectious diseases claim millions of lives each year, while preventable non-communicable illnesses are growing with the middle class. There is a huge gap not just in funding, but also in infrastructure, resources, and expertise in healthcare across the continent. As a team, Nzagha has more experience in healthcare than anything else, and we're aiming to make significant investments in health and show what an ecosystem-building approach can accomplish.
 
 ### 💼 Future of Work
+
 African youth are the most important demographic on Earth. With the world's plummeting populations, the future looks African, and its youth are poised to be the consumers, producers, savers, taxpayers, caretakers, entrepreneurs, and leaders of the near future. As technology rapidly reshapes work and productivity again and again, there is no population more important to educate in modern evidence-based approaches that build skills than African youth.
 
 ### 🌍 African Diaspora
+
 With the compounding of African demographics while the rest of the world experiences collapsing birth rates and populations, the significance of the diaspora will continue to grow over the 21st century. The diaspora provides a critical source of funding and support to their families back home, and is increasingly important in bridging the export of African brands and culture to the world, and importing useful advances in the world to Africa.
 
 ### 🧬 Nzagha Primitives
+
 Not all Nzagha theses revolve around sectors. Primitives are patterns, typically software, product, business, or operational model-based, that can be reused and/or recreated in other contexts than the ones where they are found originally. When we see promising patterns like these, the Nzagha prototyping team builds them out to test them in new environments and make them available to our portfolio, partners, and often, anyone.
 
 ---
@@ -140,15 +153,19 @@ Not all Nzagha theses revolve around sectors. Primitives are patterns, typically
 ## 📫 Connect With Us
 
 ### 💼 Investors
+
 We work with investors of all kinds, including family offices, foundations, LPs, VCs, HNWIs, DFIs, and more. If you are interested in Africa and our approach and investment platforms, please reach out. investors@nzagha.ventures
 
 ### 🚀 Founders
+
 Nzagha is fueled by African founders building businesses across the continent. If you are a founder looking for a partner, rather than a passive investor, someone who can help you build and scale your business, we want to hear from you. pitch@nzagha.ventures
 
 ### 🤝 Partners
+
 As a diversified holding company, Nzagha's success is based on working with great partners. If your organization could be a good partner for Nzagha, we'd love to explore opportunities together. partnerships@nzagha.com
 
 ### 👋 Others
+
 Just want to say hi? Please do. We welcome anyone interested in Nzagha to reach out. info@nzagha.com
 
 ---
