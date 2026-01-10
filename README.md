@@ -73,6 +73,9 @@ Nzagha does not invest passively. We look for adjacent opportunities to build se
 
 Nzagha operates a set of investment platforms that work across markets and sectors, building ecosystems of portfolio companies, supportive infrastructure, and services.
 
+### 🏗️ Technology & Resilient Infrastructure
+As Africa continues to grow, the need for robust technology and resilient infrastructure becomes increasingly critical. Nzagha invests in the foundational systems—both digital and physical—that enable economic stability, connectivity, and sustainable urban development across the continent.
+
 ### ♻️ Climate & Sustainability
 The two most predictable trends of the 21st century are global demographics and climate change. Africa is not responsible for the majority of emissions, but its populations will suffer the consequences more than anyone. Across energy, agriculture, and carbon, Nzagha is building out the continent's climate ecosystem, including electric vehicles and financing, charging and energy infrastructure, large-scale forestry and regenerative agricultural projects, and sustainable food systems and supply chains.
 
