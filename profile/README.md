@@ -49,7 +49,7 @@ We believe in an African century, where the continent must play a leading role i
 
 ### Making the Next Evolution of Humanity Flow Through Africa
 
-Human Evolution started in Africa. Instead of isolation and shorting the world, we make it flow by placing Africa central to the evolution and success of humanity. **Let's make the Next Evolution of Humanity flow through Africa.**
+Human Evolution started in Africa. Instead of isolation and shorting the world, we make it flow by placing Africa central to the evolution and success of humanity. **We make the Next Evolution of Humanity flow through Africa.**
 
 ---
 
@@ -104,7 +104,7 @@ Not all Nzagha theses revolve around sectors. Primitives are patterns, typically
 - **[TopazHost](https://topazhost.net)** — Web hosting, domain registrations, and cloud infrastructure services
 - **[HazieHotel](https://haziehotel.com)** — Hospitality management software for underserved markets
 - **[SigScout](https://sigscout.com)** — Market intelligence and signal-detection platform
-- **BitIC** — Building the world's fastest Bitcoin ASIC mining software
+- **BitIC** — Building the world's fastest Bitcoin ASIC mining software, based on the Interaction Calculus computation model, inspired by Yves Lafont.
 - **[Notareum](https://notareum.com)** — Trust, notarization, and verification infrastructure
 - **[Esvil Protocol](https://esvil.xyz)** — Decentralized RWA tokenization protocol on BNB Chain
 - **[Ekwe Network](https://ekwe.network)** — Offline-first edge-network communication infrastructure
@@ -137,16 +137,16 @@ Not all Nzagha theses revolve around sectors. Primitives are patterns, typically
 ## 📫 Connect With Us
 
 ### 💼 Investors
-We work with investors of all kinds, including family offices, foundations, LPs, VCs, HNWIs, DFIs, and more. If you are interested in Africa and our approach and investment platforms, please reach out.
+We work with investors of all kinds, including family offices, foundations, LPs, VCs, HNWIs, DFIs, and more. If you are interested in Africa and our approach and investment platforms, please reach out. investors@nzagha.ventures
 
 ### 🚀 Founders
-Nzagha is fueled by African founders building businesses across the continent. If you are a founder looking for a partner, rather than a passive investor, someone who can help you build and scale your business, we want to hear from you.
+Nzagha is fueled by African founders building businesses across the continent. If you are a founder looking for a partner, rather than a passive investor, someone who can help you build and scale your business, we want to hear from you. pitch@nzagha.ventures
 
 ### 🤝 Partners
-As a diversified holding company, Nzagha's success is based on working with great partners. If your organization could be a good partner for Nzagha, we'd love to explore opportunities together.
+As a diversified holding company, Nzagha's success is based on working with great partners. If your organization could be a good partner for Nzagha, we'd love to explore opportunities together. partnerships@nzagha.com
 
 ### 👋 Others
-Just want to say hi? Please do. We welcome anyone interested in Nzagha to reach out.
+Just want to say hi? Please do. We welcome anyone interested in Nzagha to reach out. info@nzagha.com
 
 ---
 
